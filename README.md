@@ -1,5 +1,5 @@
 # Gestión de libros
-Sistema de gestión de libros en una librería donde podemos gestionar autores que permite registrar, modificar y listar autores, también gestionar libros que permite registrar, modificar y listar libros, en los reportes tenemos listado de libros ordenados por año según el autor,  mostrar un libro según su ISBN y listado de libros según un país de autores con esa nacionalidad, **18/10/20**
+Sistema de gestión de libros en una librería donde podemos gestionar autores que permite registrar, modificar y listar autores, también gestionar libros que permite registrar, modificar y listar libros, en los reportes tenemos listado de libros ordenados por año según el autor,  mostrar un libro según su ISBN y listado de libros según un país de autores con esa nacionalidad, **18/10/20**.
 
 <div align="center">
 <img src="media/menu-datos.png">
